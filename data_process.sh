@@ -2,10 +2,10 @@
 
 dataset_name='clue'  #rob, gov, clue
 text_length=150
-total_corpus_path=/data/chenxiaoyang/MS/data/cobert_github/corpus
-total_process_data_path=/data/chenxiaoyang/MS/data/cobert_github/data
+total_corpus_path=./corpus
+total_process_data_path=./data
 bert_base_ms_model=/data/chenxiaoyang/MS/BERT_Base_trained_on_MSMARCO
-trec_eval=/data/chenxiaoyang/MS/data/cobert_github/code/bin/trec_eval
+trec_eval=./code/bin/trec_eval
 token_data_name=tokens.csv
 fold_data_name=cobert.csv
 
