@@ -1,6 +1,6 @@
 # Co-BERT 
 This repository contains the code and resources for our paper:
-- Incorporating Ranking Context for End-to-End BERT Re-ranking. In *ECIR 2022*.
+- [Incorporating Ranking Context for End-to-End BERT Re-ranking](https://drive.google.com/file/d/1R50ctHlXYcz3z-6nD1PTPyZWbAQXx9Gs/view?usp=sharing). In *ECIR 2022*.
 
 Co-BERT is a groupwise BERT-based ranking model,  wherein
 the query-document interaction representation and the ranking context are learned
