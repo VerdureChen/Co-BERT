@@ -17,7 +17,7 @@ DATA_DIR=$total_data_dir/"$dataset_name"_data
 OUTPUT_DIR=$MODEL_DIR
 REF_PATH=$total_corpus_path/$dataset_name/qrel
 
-sleep 9h
+
 
 for integer in `seq 1 1 5`
 do
